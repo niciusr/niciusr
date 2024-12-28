@@ -1,6 +1,11 @@
 # Olá, eu sou Vinícius Rodrigues da Cruz! 👋
 
-Bem-vindo ao meu perfil no GitHub! Tenho 25 anos, sou formado em Engenharia de Produção e atualmente moro no Rio de Janeiro - RJ. Estou fazendo pós-graduação em Data Science & Analytics na USP e trabalho como Analista de Dados Pleno na Eletrobras. Aqui está um pouco mais sobre mim:
+Bem-vindo ao meu perfil no GitHub! 
+
+Tenho 25 anos, sou formado em Engenharia de Produção e atualmente moro no Rio de Janeiro - RJ. 
+Estou fazendo pós-graduação em Data Science & Analytics na USP e trabalho como Analista de Dados Pleno na Eletrobras. 
+
+Aqui está um pouco mais sobre mim:
 
 ## 🚀 Sobre Mim
 
@@ -8,13 +13,13 @@ Bem-vindo ao meu perfil no GitHub! Tenho 25 anos, sou formado em Engenharia de P
 - 📍 **Localização:** Rio de Janeiro - RJ
 - 🎓 **Pós-graduação:** Data Science & Analytics na USP
 - 💼 **Ocupação Atual:** Analista de Dados Pleno na Eletrobras
-- 💻 **Ferramentas e Tecnologias:** VBA, SQL, Python, Power BI, SAP HANA, SAP BW, Power Apps, Data Lake, Azure Databricks, Bizagi, Power Automate
+- 💻 **Ferramentas e Tecnologias:** VBA, SQL, Python, Power BI, SAP HANA, SAP BW, Power Apps, Data Lake, R, Azure Databricks, Bizagi, Power Automate, Power Plataform, Data Science...
 
 ## 🛠️ Habilidades e Ferramentas
 
-- **Linguagens de Programação:** Python, SQL, VBA, R, Pyspark
-- **Ferramentas de BI:** Power BI, SAP HANA, SAP BW, Data Lake, Azure Databricks
-- **Outras Ferramentas:** Power Apps, Bizagi, Power Automate, APIs externas
+- **Linguagens de Programação:** Python, SQL, VBA, R, Pyspark;
+- **Ferramentas de BI:** Power BI, SAP HANA, SAP BW, Data Lake, Azure Databricks;
+- **Outras Ferramentas:** Power Apps, Bizagi, Power Automate, APIs;
 
 ## 📈 Experiência Profissional
 
